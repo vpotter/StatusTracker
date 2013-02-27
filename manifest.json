@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Status Tracker",
+  "description": "This extension tracks your status.",
+  "version": "1.0",
+  "background": { "scripts": ["background.js"] },
+
+  "permissions": [
+    "idle"
+  ],
+  "browser_action": {
+    "default_icon": "offline.png"
+  }
+}
