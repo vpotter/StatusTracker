@@ -10,6 +10,6 @@
     "idle"
   ],
   "browser_action": {
-    "default_icon": "offline.png"
+    "default_icon": "online.png"
   }
 }
